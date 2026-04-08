@@ -30,14 +30,6 @@ Built and designed by **Zeni** — content creator & script writer.
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **[zeni-scripts.github.io](https://YOUR-USERNAME.github.io/zeni-scripts/)**
-
-> Replace with your actual GitHub Pages URL after deployment.
-
----
-
 ## 🛠 How to Use
 
 1. **Choose a language** — search from 50+ languages
@@ -48,14 +40,6 @@ Built and designed by **Zeni** — content creator & script writer.
 6. **Copy or download** — ready to use immediately
 
 ---
-
-## 📁 Project Structure
-
-```
-zeni-scripts/
-│
-└── index.html       ← entire app (single file, no dependencies)
-```
 
 Everything is self-contained in one HTML file. No frameworks, no build tools, no npm — just open and use.
 
