@@ -45,15 +45,6 @@ Everything is self-contained in one HTML file. No frameworks, no build tools, no
 
 ---
 
-## ⚙️ Tech Stack
-
-| Technology | Usage |
-|---|---|
-| HTML / CSS / JS | Frontend — single file app |
-| Claude AI (Anthropic) | Script generation via streaming API |
-| Google Fonts | Playfair Display, Nunito, DM Mono |
-| GitHub Pages | Free hosting |
-
 ---
 
 ## 🌐 Supported Languages (50+)
